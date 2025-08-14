@@ -4,8 +4,20 @@ modal-id: 1
 date: 2014-07-18
 img: Gemini_Generated_Image_dliv1fdliv1fdliv.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: HOLA Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: Octubre 2024
+client: Tripleten
+category: Data Analyst
+description: El primer proyecto del bootcamp ha consistido en la evaluación de la calidad de datos. Se ha centrado en el análisis profundo de las características de los datos para su modificación. El lenguaje utilizado ha sido python, sin importar librerías y utilizando el motro jupyter notebook. Los métodos utilizados fueron:
+-Strip
+-Replace
+-Split
+-Try/except
+-Print
+-Int
+-Sum
+-Len
+-f-strings
+-Insert
+-Pop
+[Da click aquí para visitar el repositorio en github](https://github.com/DiffelVIA/Sprint-1)
 ---

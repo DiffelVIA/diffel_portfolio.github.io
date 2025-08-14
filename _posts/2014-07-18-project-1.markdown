@@ -7,5 +7,5 @@ alt: image-alt
 project-date: Octubre 2024
 client: Tripleten
 category: Data Analyst
-description: El primer proyecto del bootcamp ha consistido en la evaluación de la calidad de datos. Se ha centrado en el análisis profundo de las características de los datos para su modificación. El lenguaje utilizado ha sido python, sin importar librerías y utilizando el motro jupyter notebook. 
+description: El primer proyecto del bootcamp ha consistido en la evaluación de la calidad de datos. Se ha centrado en el análisis profundo de las características de los datos para su modificación. El lenguaje utilizado ha sido python, sin importar librerías y utilizando el motro jupyter notebook. Los métodos utilizados fueron: Strip, Replace, Split, Try/except, Print, Int, Sum, Len, f-strings, Insert, Pop.
 ---

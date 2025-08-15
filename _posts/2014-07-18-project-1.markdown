@@ -9,5 +9,5 @@ client: Tripleten
 category: Data Analyst
 description: El primer proyecto del bootcamp ha consistido en la evaluación de la calidad de datos. Se ha centrado en el análisis profundo de las características de los datos para su modificación. El lenguaje utilizado ha sido python, sin importar librerías y utilizando el motro jupyter notebook. Los métodos utilizados fueron strip, replace, sum, int, split, print, fstrings, pop, insert.
 [Link] [sprint1]
-[sprint1]: https://github.com/DiffelVIA/Sprint-1
 ---
+[sprint1]: https://github.com/DiffelVIA/Sprint-1

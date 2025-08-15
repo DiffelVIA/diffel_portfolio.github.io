@@ -5,7 +5,7 @@ url: https://github.com/DiffelVIA
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 keywords: "your keywords, separated by commas"
 skills: "Python - Power BI - SQL - Scikit Learn - Excel - Matplotlib - Seaborn - Numpy - Tableau"
-meta_author: LastName FirstName
+meta_author: Villalva Anguiano Diffel
 
 # Google webmaster tools
 google_verify:
@@ -21,7 +21,7 @@ contact: static
 
 # If you use disqus you need disqus shortname
 # https://help.disqus.com/customer/portal/articles/466208
-disqus_shortname: myshortname
+disqus_shortname: Diffel
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -39,16 +39,12 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
   - title: facebook
     url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
+  - title: instagram
     url: http://bitbucket.org/jekyll
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/DiffelVIA
 
 # Postal address (add as many lines as necessary)
 address:

@@ -1,12 +1,12 @@
 ---
 layout: default
-modal-id: 1
-date: 2014-07-18
-img: Gemini_Generated_Image_dliv1fdliv1fdliv.png
+modal-id: 3
+date: 2014-07-16
+img: Sprint3.png
 alt: image-alt
 project-date: Diciembre 2024
 client: Tripleten
 category: Data Analyst
-description: El primer proyecto del bootcamp ha consistido en la evaluación de la calidad de datos. Se ha centrado en el análisis profundo de las características de los datos para su modificación. El lenguaje utilizado ha sido python, sin importar librerías y utilizando el motro jupyter notebook. Los métodos utilizados fueron strip, replace, sum, int, split, print, fstrings, pop, insert.
+description: Este proyecto conllevó al inicio puro de análisis de datos, se incluyen aspectos relevantes como importación de librerías, lectura de datos CSV, ciclos for, modificación de datos, manejo de ausentes, manejo de duplicados, desarrollo de funciones, uso de métodos nuevos como unique y el primer acercamiento a la prueba de hipótesis.
 link: https://github.com/DiffelVIA/Sprint-3
 ---

@@ -2,10 +2,11 @@
 layout: default
 modal-id: 5
 date: 2014-07-14
-img: safe.png
+img: Sprint5.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: Este fue uno de los sprint más ricos en cuanto a código, ya que se importaron librerias como pandas, scipy, numpy, seaborn y matplotlib. Este proyecto fue acerca del análisis de consumo de los servicios de la compañía "Megaline". Se buscó entender al cliente, conocer que es lo que consume y que no, así como el dinero que esta dispuesto en este proyecto.
+link: https://github.com/DiffelVIA/Sprint_5
 ---

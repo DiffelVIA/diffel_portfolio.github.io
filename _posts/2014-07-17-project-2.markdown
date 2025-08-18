@@ -7,6 +7,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: El segundo sprint del bootcamp es una continuación del primer proyecto. En esta ocasión se trató de hacer funciones, ciclos for, ciclos for anidados, uso de los mismos métodos de modificación de datos, ciclos while, uso de librerias como random, sentencias if. Todo esto siguiendo la línea hipotética del proyecto uno.
 link: https://github.com/DiffelVIA/Sprint-2
 ---

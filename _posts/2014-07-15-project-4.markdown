@@ -2,10 +2,11 @@
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: game.png
+img: Sprint4.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: Se realizó un proceso de análisis de datos y prueba de hipótesos para la plataforma instacart. Se empezó a ver la graficación, en este caso fue con matplotlib, se usaron varios datasets y sobre todo, ya se empezó a utilizar un proceso de análisis, este va desde la obtención de datos, preparación de datos, análisis y presentación.
+link: https://github.com/DiffelVIA/Sprint_4
 ---

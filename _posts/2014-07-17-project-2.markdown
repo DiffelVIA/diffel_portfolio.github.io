@@ -4,7 +4,7 @@ modal-id: 2
 date: 2014-07-17
 img: Gemini_Generated_Image_pswm6cpswm6cpswm.png
 alt: image-alt
-project-date: April 2014
+project-date: Noviembre 2024
 client: Start Bootstrap
 category: Web Development
 description: El segundo sprint del bootcamp es una continuación del primer proyecto. En esta ocasión se trató de hacer funciones, ciclos for, ciclos for anidados, uso de los mismos métodos de modificación de datos, ciclos while, uso de librerias como random, sentencias if. Todo esto siguiendo la línea hipotética del proyecto uno.
